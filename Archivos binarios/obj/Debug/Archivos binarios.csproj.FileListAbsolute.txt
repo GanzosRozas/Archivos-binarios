@@ -1,0 +1,7 @@
+C:\Users\SKU-81583\Desktop\Gits\Archivos-binarios\Archivos binarios\bin\Debug\Archivos binarios.exe.config
+C:\Users\SKU-81583\Desktop\Gits\Archivos-binarios\Archivos binarios\bin\Debug\Archivos binarios.exe
+C:\Users\SKU-81583\Desktop\Gits\Archivos-binarios\Archivos binarios\bin\Debug\Archivos binarios.pdb
+C:\Users\SKU-81583\Desktop\Gits\Archivos-binarios\Archivos binarios\obj\Debug\Archivos binarios.csproj.AssemblyReference.cache
+C:\Users\SKU-81583\Desktop\Gits\Archivos-binarios\Archivos binarios\obj\Debug\Archivos binarios.csproj.CoreCompileInputs.cache
+C:\Users\SKU-81583\Desktop\Gits\Archivos-binarios\Archivos binarios\obj\Debug\Archivos binarios.exe
+C:\Users\SKU-81583\Desktop\Gits\Archivos-binarios\Archivos binarios\obj\Debug\Archivos binarios.pdb
